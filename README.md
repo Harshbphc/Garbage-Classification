@@ -1,7 +1,7 @@
 ﻿# Garbage-Classification
 
 
-My project on CNN(Garbage Classification)
+My project on Image Classification
 
 The link to my project on Kaggle(I couldn't upload the dataset here due to an error) https://www.kaggle.com/code/harshrachalwar/garbage-classifier-using-pretrained-model
 
